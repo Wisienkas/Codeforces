@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /**
+ * http://codeforces.com/problemset/problem/281/A
  * Created by yturi on 5/29/2017.
  */
 public class WordCapitalization {
